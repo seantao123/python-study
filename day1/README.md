@@ -10,3 +10,9 @@
 ## Source code msnsgement
 
 1. github account
+
+## Programming basics
+
+### Basic data types
+
+1. number, boolean, string, date/time
