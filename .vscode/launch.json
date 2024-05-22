@@ -8,7 +8,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "day2/python2.py",
+            "program": "day2/csv-test.py",
             "console": "integratedTerminal"
         }
     ]
