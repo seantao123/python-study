@@ -8,7 +8,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "brickgame.py",
+            "program": "day5/python5.py",
             "console": "integratedTerminal"
         }
     ]
