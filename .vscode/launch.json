@@ -8,7 +8,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "day6/python6.py",
+            "program": "day7/python7.py",
             "console": "integratedTerminal"
         }
     ]
